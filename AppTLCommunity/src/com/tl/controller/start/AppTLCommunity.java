@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package apptlcommunity;
+package com.tl.controller.start;
+
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -16,6 +18,7 @@ public class AppTLCommunity {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "Inicio");
     }
     
 }
